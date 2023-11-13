@@ -1,0 +1,36 @@
+/*vamos a empezar a usar CSS*/
+html{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: black;
+    justify-content: center;
+    justify-items: center;
+}
+h1 {
+    color: orange; font: impact;
+}
+
+
+
+/* formatos de fuentes y tamoños
+
+html {
+    font-size: 18px;
+}
+div {
+    font-size: 14px;
+}
+
+/* formas de usar los colores
+
+named value 
+div {
+    color: brown;
+}
+/* RGB hex value 
+h1 {
+    color: #7462e0;
+}
+/* RGB function 
+h2 {
+    color: rgb(105, 6, 19);
+}*/
