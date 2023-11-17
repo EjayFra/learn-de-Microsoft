@@ -4,12 +4,18 @@ html{
     background-color: black;
     justify-content: center;
     justify-items: center;
+    
 }
 h1 {
     color: orange; font: impact;
 }
+ul {color: rgb(255, 225, 0);}
+a:hover {
+    background-color: rgb(174, 43, 226);
+}
 
-
+.EXPERIENCIA {
+     font-style: italic;}
 
 /* formatos de fuentes y tamoños
 
